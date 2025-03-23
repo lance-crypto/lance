@@ -1,0 +1,23 @@
+C:\Users\dugoi\Documents\Management data\Management data\bin\Debug\net8.0-windows\Management data.exe
+C:\Users\dugoi\Documents\Management data\Management data\bin\Debug\net8.0-windows\Management data.deps.json
+C:\Users\dugoi\Documents\Management data\Management data\bin\Debug\net8.0-windows\Management data.runtimeconfig.json
+C:\Users\dugoi\Documents\Management data\Management data\bin\Debug\net8.0-windows\Management data.dll
+C:\Users\dugoi\Documents\Management data\Management data\bin\Debug\net8.0-windows\Management data.pdb
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management_data.Form1.resources
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management_data.Form2.resources
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.vbproj.GenerateResource.cache
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.AssemblyInfoInputs.cache
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.AssemblyInfo.vb
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.vbproj.CoreCompileInputs.cache
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.dll
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\refint\Management data.dll
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.pdb
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.genruntimeconfig.cache
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\ref\Management data.dll
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management_data.Form3.resources
+C:\Users\dugoi\Documents\Management data\Management data\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management data.vbproj.AssemblyReference.cache
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management_data.Form4.resources
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Management_data.Resources.resources
+C:\Users\dugoi\Documents\Management data\Management data\obj\Debug\net8.0-windows\Manageme.694375D2.Up2Date
